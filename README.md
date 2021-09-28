@@ -1,2 +1,2 @@
 # leetcode-Java-
-the code is added to the
+the leetcode problem code is added to the repositories
