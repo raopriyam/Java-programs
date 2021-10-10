@@ -8,6 +8,7 @@ public class linkedList {
         l1.add("Rao");
         l1.add("is");
         l1.add("coding");
+        l1.add("to");
 
         System.out.println(l1);
     }
