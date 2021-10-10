@@ -9,6 +9,7 @@ public class linkedList {
         l1.add("is");
         l1.add("coding");
         l1.add("to");
+        l1.add("solve");
 
         System.out.println(l1);
     }
