@@ -10,6 +10,8 @@ public class linkedList {
         l1.add("coding");
         l1.add("to");
         l1.add("solve");
+        l1.add("Leetcode");
+        l1.add("problems");
 
         System.out.println(l1);
     }
