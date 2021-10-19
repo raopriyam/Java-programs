@@ -7,5 +7,6 @@ public class array {
         for(i=0;i<arr1.length;i++)
         System.out.println(arr1[i]);
         System.out.println(arr2[i]);
+        System.out.println(arr3[i]);
     }
 }
